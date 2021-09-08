@@ -1,0 +1,12 @@
+Kerckhoff's Principle:
+
+    Encryption security should not be dependent upon the algorithm being secret.
+
+    Obvious example is the Caesar's Cipher, if the the algo is known, super simple to crack.
+
+Permutations:
+
+    How many different ways can you order the elements?
+
+    Formula: N! = N*(N-1)*...*2*1
+    
