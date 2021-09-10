@@ -18,6 +18,8 @@ Why is substition cipher not secure?
 
     from 56->88 bits, 15 * 2^32 > 100 million years.
 
+    https://inventwithpython.com/hacking/chapter20.html
+
 Frequency analysis:
     
     
