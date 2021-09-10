@@ -10,3 +10,14 @@ Permutations:
 
     Formula: N! = N*(N-1)*...*2*1
     
+Why is substition cipher not secure?
+
+    88 bits security.
+
+    DES (56 bits) - 1000$ HW, takes 15 days average to crack.
+
+    from 56->88 bits, 15 * 2^32 > 100 million years.
+
+Frequency analysis:
+    
+    
