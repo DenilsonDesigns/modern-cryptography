@@ -22,4 +22,11 @@ Why is substition cipher not secure?
 
 Frequency analysis:
     
+    Analyzing the letter frequency of an encrypted msg to compare the frequency of letters 
+    and map those to the most commonly used English letters, i.e, the most commonly used
+    letter in an encrypted msg would map to "e"
+
+One Time Pad:
+
+    Taking a message and reprensenting it as bits, using a random seed (in bits also) 
     
